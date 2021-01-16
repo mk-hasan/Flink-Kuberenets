@@ -1,5 +1,5 @@
 # Flink-Kuberenets
-## Run Flink program in kuberents cluster
+## Run Deep learning object Detection with Flink program in kuberents cluster and 
 ### This is the object detection code with YOLO algorithm to detect object from video or image. You can create jar file from this java code and run into your flink clusters using ui or curl...
 
 
